@@ -10,15 +10,6 @@ The goal for the Snap Mac app is to build a community of McMasterU students exch
 1.	Building my own social network with inspiration from Snapchat
 2.	Develop a full-stack iOS App using Parse Framework (main data storage)
 
-##Video Preview
-![screencast](http://g.recordit.co/AZakhNjxel.gif)
-
-##Mockup Designs
-
-![Screen](https://raw.githubusercontent.com/tron1991/Weather-iOS-watchOS-App/master/Wireframes/WeatherAppScreenshots/4-inch%20(iPhone%205)%20-%20Screenshot%201.jpg)
-
-![Screen](https://raw.githubusercontent.com/tron1991/Weather-iOS-watchOS-App/master/Wireframes/AppleWatch.png)
-
 ## What is it?
 
 ##Login View Controller
