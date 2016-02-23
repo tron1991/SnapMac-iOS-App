@@ -100,9 +100,9 @@ class InboxViewController: UITableViewController
         
         let messageType = message["fileType"] as! String
         if messageType == "photo" {
-            cell.imageView?.image = UIImage(named: "icon-photo")
+            cell.imageView?.image = UIImage(named: "icon_photo")
         } else {
-            cell.imageView?.image = UIImage(named: "icon-video")
+            cell.imageView?.image = UIImage(named: "icon_video")
         }
         
         return cell

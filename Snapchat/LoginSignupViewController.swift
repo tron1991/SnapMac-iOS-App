@@ -26,10 +26,10 @@ class LoginSignupViewController: PFLogInViewController
         
         //configure the logo
         logInView?.logo = UIImageView(image: UIImage(named: "main_logo")!)
-        logInView?.logo?.contentMode = .ScaleAspectFit
+        logInView?.logo?.contentMode = .ScaleAspectFill
         
         signUpVC.signUpView!.logo = UIImageView(image: UIImage(named: "main_logo")!)
-        signUpVC.signUpView!.logo?.contentMode = .ScaleAspectFit
+        signUpVC.signUpView!.logo?.contentMode = .ScaleAspectFill
         
     }
     

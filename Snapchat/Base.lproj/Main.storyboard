@@ -7,7 +7,7 @@
         <!--Messages-->
         <scene sceneID="dG7-Rt-XOe">
             <objects>
-                <tableViewController id="6gl-WL-Apz" customClass="InboxViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="6gl-WL-Apz" customClass="InboxViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="5ls-SH-10C">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -54,7 +54,7 @@
         <!--Send to-->
         <scene sceneID="3ft-oP-cvW">
             <objects>
-                <tableViewController id="fN2-9n-nZz" customClass="NewMessageTableViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="fN2-9n-nZz" customClass="NewMessageTableViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="xht-gE-3xU">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -94,7 +94,7 @@
         <!--Friends-->
         <scene sceneID="CDA-AZ-cID">
             <objects>
-                <tableViewController id="8UZ-zm-BgL" customClass="FriendsTableViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="8UZ-zm-BgL" customClass="FriendsTableViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="FXF-kK-RdN">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -131,7 +131,7 @@
         <!--Edit Friends Table View Controller-->
         <scene sceneID="X70-z5-AlO">
             <objects>
-                <tableViewController id="Mm4-La-SfO" customClass="EditFriendsTableViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="Mm4-La-SfO" customClass="EditFriendsTableViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="JPC-0J-ZzX">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -162,7 +162,7 @@
         <!--Photo View Controller-->
         <scene sceneID="SMJ-6V-WiM">
             <objects>
-                <viewController id="jBB-xo-GGc" customClass="PhotoViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="jBB-xo-GGc" customClass="PhotoViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="oXj-hq-ia3"/>
                         <viewControllerLayoutGuide type="bottom" id="LaK-r7-XdV"/>
@@ -180,7 +180,7 @@
         <!--Login Signup View Controller-->
         <scene sceneID="uZq-on-vkw">
             <objects>
-                <viewController id="ElS-Bt-Y9V" customClass="LoginSignupViewController" customModule="Snapchat" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ElS-Bt-Y9V" customClass="LoginSignupViewController" customModule="SnapMac" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="CY9-dd-lJC"/>
                         <viewControllerLayoutGuide type="bottom" id="STZ-WS-0nu"/>
